@@ -1,7 +1,7 @@
 In this repository you can find 4 tasks done by 
-Oleksandr
 Diogo
 Stefan
+Oleksandr
 
 To run them You need:
 1) Install Visual Studio code 
